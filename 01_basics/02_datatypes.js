@@ -1,6 +1,6 @@
-"use strict"; // treat all code in newer version
+"use strict"; // treat all code as newer version
 
-alert ( 1 + 2); // we are using nodejs, not browser.
+//alert ( 1 + 2); // we are using nodejs, not browser.
 
 console.log(1 + 2);
 
